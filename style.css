@@ -1,0 +1,23 @@
+#body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+    /*background-size: cover;It covers the whole thing
+    https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_background-size*/
+    text-align: center;}
+    h1 {
+        color: rgb(250, 157, 157);
+        font-size: 40px;
+    }
+    #my_canvas{
+        border-width: 10px;
+        background-color: rgb(255, 255, 255);
+        border-style: ridge;
+        text-align: center; 
+    }
+    button{
+        background-color: greenyellow;
+        color:black;
+        font-size: 30px;
+    
+    }
